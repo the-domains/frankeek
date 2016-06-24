@@ -1,0 +1,28 @@
+name: frankeek
+favicon: null
+layout_spectrum: 0.5309273875318468
+typography_spectrum: 0.3908525127917528
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9664392517879605
+  lightness: 0.8523995671421289
+  saturation: 0.7940202462486923
+  rhythmicContrast: 0.16896055778488517
+purpose: []
